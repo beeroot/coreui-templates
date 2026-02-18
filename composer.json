@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/coreui-templates",
+    "name": "beeroot/coreui-templates",
     "type": "library",
     "description": "CoreUI templates for InfyOm Laravel Generator",
     "keywords": [
@@ -13,8 +13,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Beeroot",
         }
     ],
     "require": {

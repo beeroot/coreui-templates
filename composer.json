@@ -14,6 +14,8 @@
     "authors": [
         {
             "name": "Beeroot",
+            "email": "",
+            "homepage": "https://github.com/beeroot"
         }
     ],
     "require": {
@@ -31,11 +33,5 @@
                 "\\InfyOm\\CoreUITemplates\\CoreUITemplatesServiceProvider"
             ]
         }
-    },
-    "funding": [
-        {
-            "type": "opencollective",
-            "url": "https://opencollective.com/infyomlabs"
-        }
-    ]
+    }
 }
